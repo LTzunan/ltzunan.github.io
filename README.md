@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-- 计算机网络
-
- [1. 概述](https://github.com/LTzunan/ltzunan.github.io/edit/main/README.md)
+## 计算机网络
+- [1. 概述](https://github.com/LTzunan/ltzunan.github.io/edit/main/README.md)
 
 You can use the [editor on GitHub](https://github.com/LTzunan/ltzunan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
